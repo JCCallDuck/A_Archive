@@ -1,15 +1,15 @@
-<?php include("includes/header.php"); ?>
+<?php include("header.php"); ?>
 
 <?php
 $id = $_GET['id'] ?? '';
 
 if (empty($id)) {
   echo '<div class="text-center py-20 text-red-400 text-xl">No character ID provided.</div>';
-  include("includes/footer.php");
+  include("footer.php");
   exit;
 }
 
-$characters = json_decode(file_get_contents("data/characters.json"), true);
+$characters = json_decode(file_get_contents("characters.json"), true);
 $char = null;
 foreach ($characters as $c) {
   if ($c['id'] === $id) {
@@ -59,4 +59,4 @@ foreach ($characters as $c) {
   <div class="text-center py-20 text-red-400 text-xl">Character not found.</div>
 <?php endif; ?>
 
-<?php include("includes/footer.php"); ?>
+<?php include("footer.php"); ?>
