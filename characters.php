@@ -1,10 +1,10 @@
-<?php include("includes/header.php"); ?>
+<?php include("header.php"); ?>
 
 <div class="max-w-7xl mx-auto px-4 py-10">
   <h2 class="text-4xl font-bold text-purple-400 mb-8 text-center">Arcane Characters</h2>
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
     <?php
-    $characters = json_decode(file_get_contents("data/characters.json"), true);
+    $characters = json_decode(file_get_contents("characters.json"), true);
 
     if (is_array($characters)) {
       // Sort characters alphabetically by name
@@ -17,7 +17,7 @@
         $nickname = htmlspecialchars($char['nickname'] ?? '');
         $role = htmlspecialchars($char['role'] ?? 'N/A');
         $faction = htmlspecialchars($char['faction'] ?? 'N/A');
-        $image = htmlspecialchars($char['image'] ?? 'images/default.jpg');
+        $image = htmlspecialchars($char['image'] ?? 'default.jpg');
         $id = urlencode($char['id'] ?? '');
         $quote = htmlspecialchars($char['quote'] ?? '');
         $description = (isset($char['description']) && is_string($char['description']) && strlen($char['description']) > 0)
@@ -49,4 +49,4 @@
   </div>
 </div>
 
-<?php include("includes/footer.php"); ?>
+<?php include("footer.php"); ?>
