@@ -1,0 +1,352 @@
+[
+  {
+    "id": "jinx",
+    "name": "Jinx",
+    "nickname": "The Loose Cannon",
+    "faction": "Zaun",
+    "role": "Marksman, Explosives Expert",
+    "description": "Jinx is a manic and impulsive criminal from Zaun, known for her love of chaos and destruction. Formerly known as Powder, her transformation is central to the events of Arcane.",
+    "image": "images/jinx.jpg",
+    "quote": "Powder's gone, Vi. All that's left is Jinx."
+  },
+  {
+    "id": "vi",
+    "name": "Vi",
+    "nickname": "The Piltover Enforcer",
+    "faction": "Piltover",
+    "role": "Enforcer, Brawler",
+    "description": "Vi is a former Zaunite street child turned Piltover enforcer. Fiercely protective and hot-headed, she’s determined to bring justice to the city — even if it means fighting her sister, Jinx.",
+    "image": "images/vi.jpg",
+    "quote": "You’ve got a good heart. Don’t ever lose it, no matter how the world tries to break you."
+  },
+  {
+    "id": "jayce",
+    "name": "Jayce",
+    "nickname": "The Defender of Tomorrow",
+    "faction": "Piltover",
+    "role": "Scientist, Inventor, Council Member",
+    "description": "Jayce is a brilliant inventor and a leader in Piltover. He helped pioneer Hextech and strives to protect his city, often torn between duty and morality.",
+    "image": "images/jayce.jpg",
+    "quote": "Innovation is the key to progress, but it must be handled with care."
+  },
+  {
+    "id": "caitlyn",
+    "name": "Caitlyn",
+    "nickname": "The Sheriff of Piltover",
+    "faction": "Piltover",
+    "role": "Detective, Sniper",
+    "description": "Caitlyn is an elite marksman and a determined investigator. With a sharp mind and unshakable sense of justice, she partners with Vi to root out corruption in Piltover.",
+    "image": "images/caitlyn.jpg",
+    "quote": "We stand together or not at all."
+  },
+  {
+    "id": "silco",
+    "name": "Silco",
+    "nickname": "The Undercity King",
+    "faction": "Zaun",
+    "role": "Crime Lord, Leader",
+    "description": "Silco is a ruthless Zaunite leader who seeks independence from Piltover. A manipulative strategist, he adopts Jinx as a daughter-like figure and fuels her descent into chaos.",
+    "image": "images/silco.jpg",
+    "quote": "Power, real power, doesn't come to those who were born strongest, or fastest, or smartest. It comes to those who will do anything to achieve it."
+  },
+  {
+    "id": "vander",
+    "name": "Vander",
+    "nickname": "The Hound of the Underground",
+    "faction": "Zaun",
+    "role": "Barkeep, Father Figure",
+    "description": "Vander is a father figure to Vi and Jinx, striving to maintain peace between Zaun and Piltover. He once led a rebellion but chose diplomacy to protect the ones he loves.",
+    "image": "images/vander.jpg",
+    "quote": "When people look up to you, you don’t get to be selfish."
+  },
+  {
+    "id": "ekko",
+    "name": "Ekko",
+    "nickname": "The Boy Who Shattered Time",
+    "faction": "Zaun",
+    "role": "Inventor, Fighter",
+    "description": "Ekko is a brilliant young inventor and leader of the Firelights. Using time-manipulating technology, he fights to protect Zaun from corruption and violence.",
+    "image": "images/ekko.jpg",
+    "quote": "The past haunts us all. But we can't let it define us."
+  },
+  {
+    "id": "heimerdinger",
+    "name": "Heimerdinger",
+    "nickname": "The Revered Inventor",
+    "faction": "Piltover",
+    "role": "Scientist, Council Member",
+    "description": "Professor Heimerdinger is a wise Yordle and one of Piltover’s founding fathers. He values caution and experience, often clashing with Jayce over the dangers of unchecked innovation.",
+    "image": "images/heimerdinger.jpg",
+    "quote": "Progress cannot be rushed. We must temper our ambitions."
+  },
+  {
+    "id": "mel-medarda",
+    "name": "Mel Medarda",
+    "nickname": "The Ambitious Councilor",
+    "faction": "Piltover",
+    "role": "Politician, Council Member",
+    "description": "Mel is a powerful Piltover councilor from a wealthy Noxian family. Strategic and ambitious, she forms a political and personal alliance with Jayce to shape Piltover’s future.",
+    "image": "images/mel.jpg",
+    "quote": "The only way to defeat a superior enemy is to stop playing by the rules."
+  },
+  {
+    "id": "singed",
+    "name": "Singed",
+    "nickname": "The Mad Chemist",
+    "faction": "Zaun",
+    "role": "Chemist, Scientist",
+    "description": "Singed is a brilliant yet amoral scientist who pushes the boundaries of alchemy. His experiments are key to many of Zaun’s darker developments, including Shimmer.",
+    "image": "images/singed.jpg",
+    "quote": "One must die so another may live."
+  },
+  {
+    "id": "sevika",
+    "name": "Sevika",
+    "nickname": "The Enforcer of Zaun",
+    "faction": "Zaun",
+    "role": "Silco's Lieutenant",
+    "description": "Sevika is a fierce and loyal enforcer working under Silco. Equipped with a powerful Shimmer-enhanced arm, she’s a brutal combatant and enforcer of Zaunite power.",
+    "image": "images/sevika.jpg",
+    "quote": "Loyalty to the cause is what separates survivors from corpses."
+  },
+  {
+    "id": "grayson",
+    "name": "Grayson",
+    "nickname": "The Law in Piltover",
+    "faction": "Piltover",
+    "role": "Sheriff",
+    "description": "Grayson was a high-ranking Piltover enforcer who attempted to maintain peace through negotiation. Her murder sets off a chain of violent events in the story.",
+    "image": "images/grayson.jpg",
+    "quote": "Peace is built on trust. We can't afford to lose that."
+  },
+  {
+    "id": "marcus",
+    "name": "Marcus",
+    "nickname": "The Compromised Enforcer",
+    "faction": "Piltover",
+    "role": "Enforcer, Captain",
+    "description": "Marcus is an enforcer who rises to power through uneasy deals with Silco. His ambition and desire to protect his daughter lead him down a morally gray path.",
+    "image": "images/marcus.jpg",
+    "quote": "Everything I do, I do to protect her."
+  },
+  {
+    "id": "ambessa-medarda",
+    "name": "Ambessa Medarda",
+    "nickname": "The Noxian Warlord",
+    "faction": "Noxus",
+    "role": "General, Diplomat",
+    "description": "Ambessa is Mel's powerful mother and a ruthless Noxian general. She arrives in Piltover seeking strategic alliances, while pushing her daughter toward greater dominance.",
+    "image": "images/ambessa.jpg",
+    "quote": "In Noxus, we forge our leaders in battle, not politics."
+  },
+  {
+    "id": "mylo",
+    "name": "Mylo",
+    "nickname": "The Sarcastic Brother",
+    "faction": "Zaun",
+    "role": "Street Kid",
+    "description": "Mylo was one of Vi and Powder’s close friends during childhood. Quick-witted and sarcastic, he often masked his fear with humor. He tragically dies in the explosion that separates the group.",
+    "image": "images/mylo.jpg",
+    "quote": "That’s why we always lose. Because you always think you’re better than everyone else!"
+  },
+  {
+    "id": "claggor",
+    "name": "Claggor",
+    "nickname": "The Gentle Giant",
+    "faction": "Zaun",
+    "role": "Street Kid",
+    "description": "Claggor was a strong and kind member of Vi’s childhood crew, easily recognizable by his goggles. He dies alongside Mylo, marking a pivotal turning point in Jinx's story.",
+    "image": "images/claggor.jpg",
+    "quote": "We’ve got this. Stick together, like always."
+  },
+  {
+    "id": "deckard",
+    "name": "Deckard",
+    "nickname": "Shimmer Fighter",
+    "faction": "Zaun",
+    "role": "Street Fighter",
+    "description": "Deckard was a Zaunite who enhanced himself with Shimmer to become stronger. His transformation showcases the drug’s dangerous potential. He fights Vi in a brutal underground match.",
+    "image": "images/deckard.jpg",
+    "quote": "You wanna be strong? Then prove it!"
+  },
+  {
+    "id": "benzo",
+    "name": "Benzo",
+    "nickname": "Ekko’s Mentor",
+    "faction": "Zaun",
+    "role": "Shopkeeper",
+    "description": "Benzo ran a pawn shop in Zaun and was a father figure to Ekko. He was killed during Silco’s rise to power, representing the loss of old Zaunite values.",
+    "image": "images/benzo.jpg",
+    "quote": "Some things are more important than money."
+  },
+  {
+    "id": "huck",
+    "name": "Huck",
+    "nickname": "Lane Merchant",
+    "faction": "Zaun",
+    "role": "Shopkeeper",
+    "description": "Huck is a small-time shop owner in the Lanes. Friendly and streetwise, he sometimes deals in black-market goods. He tries to stay neutral in Zaun’s power struggles.",
+    "image": "images/huck.jpg",
+    "quote": "Keep your head down, your mouth shut, and you’ll be fine."
+  },
+  {
+    "id": "finn",
+    "name": "Finn",
+    "nickname": "Zaun Crime Boss",
+    "faction": "Zaun",
+    "role": "Underboss",
+    "description": "Finn is a younger crime boss who attempts to challenge Silco's dominance. His arrogance leads to a fatal miscalculation when he underestimates Jinx’s loyalty to Silco.",
+    "image": "images/finn.jpg",
+    "quote": "There’s a new order coming to Zaun, and I intend to be at the top."
+  },
+  {
+    "id": "hoskel",
+    "name": "Hoskel",
+    "nickname": "The Cautious Councilor",
+    "faction": "Piltover",
+    "role": "Council Member",
+    "description": "Hoskel is a portly and conservative councilor of Piltover, known for his cautious and bureaucratic approach to governance.",
+    "image": "images/hoskel.jpg",
+    "quote": "We mustn’t act in haste. Think of the implications."
+  },
+  {
+    "id": "shoola",
+    "name": "Shoola",
+    "nickname": "The Elegant Councilor",
+    "faction": "Piltover",
+    "role": "Council Member",
+    "description": "Shoola is an elegant and poised member of the Piltover Council, often seen weighing complex political decisions with calm demeanor.",
+    "image": "images/shoola.jpg",
+    "quote": "Grace under pressure is the true mark of a leader."
+  },
+  {
+    "id": "bolbok",
+    "name": "Bolbok",
+    "nickname": "The Bearded Councilor",
+    "faction": "Piltover",
+    "role": "Council Member",
+    "description": "Bolbok is a large, bearded member of the Piltover Council. He tends to be analytical and measured in council matters.",
+    "image": "images/bolbok.jpg",
+    "quote": "Let’s not forget the lessons of the past while rushing to the future."
+  },
+  {
+    "id": "salo",
+    "name": "Salo",
+    "nickname": "The Young Idealist",
+    "faction": "Piltover",
+    "role": "Council Member",
+    "description": "Salo is one of the younger council members and is more progressive, often favoring innovation and advancement.",
+    "image": "images/salo.jpg",
+    "quote": "If we don’t move forward, we fall behind."
+  },
+  {
+    "id": "cassandra",
+    "name": "Cassandra Kiramman",
+    "nickname": "Caitlyn’s Mother",
+    "faction": "Piltover",
+    "role": "Council Member, Noble",
+    "description": "Cassandra Kiramman is a high-ranking Piltover noble and Caitlyn’s mother. She holds a seat on the council and prioritizes order and family reputation.",
+    "image": "images/cassandra.jpg",
+    "quote": "The Kiramman name stands for dignity. Don’t forget that."
+  },
+  {
+    "id": "sky",
+    "name": "Sky",
+    "nickname": "Viktor’s Assistant",
+    "faction": "Piltover",
+    "role": "Researcher, Assistant",
+    "description": "Sky is a kind-hearted and intelligent assistant working with Viktor. She admires his brilliance and supports his Hextech research.",
+    "image": "images/sky.jpg",
+    "quote": "You’re changing the world, Viktor. Don’t lose yourself in the process."
+  },
+  {
+    "id": "loris",
+    "name": "Loris",
+    "nickname": "Caitlyn’s Squadmate",
+    "faction": "Piltover",
+    "role": "Enforcer",
+    "description": "Loris is a new Piltover Enforcer who joins Caitlyn’s elite squad. He is dependable, disciplined, and believes in justice and order.",
+    "image": "images/loris.jpg",
+    "quote": "Justice is earned, not claimed."
+  },
+  {
+    "id": "maddie_nolen",
+    "name": "Maddie Nolen",
+    "nickname": "Junior Officer",
+    "faction": "Piltover",
+    "role": "Officer, Spy for Ambessa",
+    "description": "Maddie Nolen is a bright and determined officer secretly working for Ambessa Medarda. She’s embedded in Caitlyn’s squad and shows tactical skill.",
+    "image": "images/maddie_nolen.jpg",
+    "quote": "No one suspects a loyal soldier — that’s the beauty of it."
+  },
+  {
+    "id": "isha",
+    "name": "Isha",
+    "nickname": "Jinx's Adopted Orphan",
+    "faction": "Zaun",
+    "role": "Orphan",
+    "description": "Isha is a traumatized child from Zaun who finds a home under Jinx’s protection. She reflects the innocence Powder once had.",
+    "image": "images/isha.jpg",
+    "quote": "Are you... gonna blow something up again?"
+  },
+  {
+    "id": "gert",
+    "name": "Gert",
+    "nickname": "The Jinxer",
+    "faction": "Zaun",
+    "role": "Gang Member",
+    "description": "Gert is one of the founding members of the Jinxers gang in Zaun, loyal to Jinx and known for his wild energy and chaos.",
+    "image": "images/gert.jpg",
+    "quote": "Wherever Jinx goes, the fun follows!"
+  },
+  {
+    "id": "leblanc",
+    "name": "LeBlanc",
+    "nickname": "The Illusionist",
+    "faction": "Noxus / Black Rose",
+    "role": "Leader, Sorceress",
+    "description": "LeBlanc is the enigmatic leader of the secretive Black Rose cabal. She manipulates events from the shadows using illusions and ancient magic.",
+    "image": "images/leblanc.jpg",
+    "quote": "Truth is just another illusion — if you know how to weave it."
+  },
+  {
+    "id": "rictus",
+    "name": "Rictus",
+    "nickname": "The Silent Blade",
+    "faction": "Noxus",
+    "role": "Bodyguard",
+    "description": "Rictus is Ambessa Medarda’s mute and terrifying bodyguard. He enforces her will with silent precision and brute strength.",
+    "image": "images/rictus.jpg",
+    "quote": "*silent glare*"
+  },
+  {
+    "id": "felicia",
+    "name": "Felicia",
+    "nickname": "Vi and Jinx’s Mother",
+    "faction": "Zaun",
+    "role": "Revolutionary",
+    "description": "Felicia is the long-lost mother of Vi and Powder (Jinx). Seen in flashbacks, she was part of Zaun’s early revolutionary movement.",
+    "image": "images/felicia.jpg",
+    "quote": "We fight not for power, but for a future our children can survive in."
+  },
+  {
+    "id": "kino_medarda",
+    "name": "Kino Medarda",
+    "nickname": "The Lost Brother",
+    "faction": "Noxus",
+    "role": "Mel’s Brother",
+    "description": "Kino Medarda was Mel’s older brother who died in a Noxian war. His memory haunts the Medarda family and influences Mel’s decisions.",
+    "image": "images/kino_medarda.jpg",
+    "quote": "We die with honor, so others may live free."
+  },
+  {
+    "id": "warwick",
+    "name": "Warwick",
+    "nickname": "The Uncaged Wrath of Zaun",
+    "faction": "Zaun",
+    "role": "Beast, Enforcer",
+    "description": "Once known as Vander, Warwick is now a monstrous Shimmer-fueled beast created by Singed. He stalks the undercity, haunted by memories of who he once was.",
+    "image": "images/warwick.jpg",
+    "quote": "Pain... fear... betrayal... I remember it all."
+  }
+]
