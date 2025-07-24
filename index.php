@@ -1,7 +1,7 @@
-<?php include("includes/header.php"); ?>
+<?php include("header.php"); ?>
 
 <!-- Hero Section -->
-<section class="relative bg-cover bg-center bg-[url('images/arcane-bg.jpg')] h-[65vh] flex items-center justify-center">
+<section class="relative bg-cover bg-center bg-[url('arcane-bg.jpg')] h-[65vh] flex items-center justify-center">
   <div class="bg-black bg-opacity-70 w-full h-full absolute top-0 left-0"></div>
   <div class="relative z-10 text-center text-white px-6">
     <h1 class="text-4xl md:text-6xl font-bold text-purple-300">Welcome to the Arcane Archive</h1>
@@ -16,49 +16,49 @@
     <div class="relative w-full overflow-hidden">
       <div id="slider" class="flex animate-slide">
         <!-- Character Images -->
-        <img src="images/jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
         <!-- Duplicate for seamless loop -->
-        <img src="images/jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
         <!-- Duplicate for seamless loop -->
-        <img src="images/jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
         <!-- Duplicate for seamless loop -->
-        <img src="images/jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
-        <img src="images/viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jinx.jpg" alt="Jinx" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="vi.jpg" alt="Vi" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="silco.jpg" alt="Silco" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="ekko.jpg" alt="Ekko" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="caitlyn.jpg" alt="Caitlyn" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="jayce.jpg" alt="Jayce" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="heimerdinger.jpg" alt="Heimerdinger" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="mel.jpg" alt="Mel" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="sevika.jpg" alt="Sevika" class="w-64 h-64 object-cover flex-shrink-0">
+        <img src="viktor.jpg" alt="Viktor" class="w-64 h-64 object-cover flex-shrink-0">
       </div>
     </div>
   </div>
@@ -98,7 +98,7 @@
         <p class="text-gray-300">
           Known as the City of Progress, Piltover stands as a beacon of innovation and wealth. Built high above Zaun, it thrives on Hextech technology, scientific advancement, and a strict societal order. Its leaders, like Jayce and Heimerdinger, strive to push the boundaries of what’s possible — but not without consequence.
         </p>
-        <img src="images/piltover.jpg" alt="Piltover" class="mt-4 rounded shadow-md">
+        <img src="piltover.jpg" alt="Piltover" class="mt-4 rounded shadow-md">
       </div>
 
       <!-- Zaun Card -->
@@ -107,7 +107,7 @@
         <p class="text-gray-300">
           Beneath Piltover lies Zaun — a city of survival, rebellion, and innovation born of necessity. It's home to tinkerers, rebels, and outcasts. Shimmer, an addictive substance, is both a source of power and destruction. Figures like Silco, Jinx, and Ekko lead very different lives shaped by the chaos and freedom of Zaun.
         </p>
-        <img src="images/zaun.jpg" alt="Zaun" class="mt-4 rounded shadow-md">
+        <img src="zaun.jpg" alt="Zaun" class="mt-4 rounded shadow-md">
       </div>
 
     </div>
@@ -120,4 +120,4 @@
   <a href="characters.php" class="inline-block mt-4 px-8 py-3 bg-gray-900 hover:bg-gray-800 rounded-full text-lg font-semibold transition">Browse Characters →</a>
 </section>
 
-<?php include("includes/footer.php"); ?>
+<?php include("footer.php"); ?>
